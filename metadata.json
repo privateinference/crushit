@@ -1,0 +1,6 @@
+{
+  "name": "OmniCrush AST - Lossless HTML/CSS/JS Compressor & Parametric Engine",
+  "description": "Lossless AST-level minifier, JSON crusher, dictionary deduplicator, import-map flattener, and parametric templating engine with AI designer and scientific workbench presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
